@@ -1,13 +1,24 @@
 
-html{
-    background: url("Background_Placeholder.jpg");
+.main_background{
+    background: url('background_placeholder.jpg');
     background-size: cover;
 }
-header{
-    color:burlywood;
-    font-weight: bold;
-}
+
 img{
     width: 50%;
     height:auto;
+}
+
+.title{
+    color:rgba(41, 41, 41);
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    line-height: 0px;
+}
+.title h1{
+    font-size: 100px
+}
+.title h2{
+    font-size: 75px
 }
