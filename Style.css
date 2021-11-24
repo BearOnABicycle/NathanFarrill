@@ -1,4 +1,13 @@
+
+html{
+    background: url("Background_Placeholder.jpg");
+    background-size: cover;
+}
 header{
     color:burlywood;
     font-weight: bold;
+}
+img{
+    width: 50%;
+    height:auto;
 }
